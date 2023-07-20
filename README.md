@@ -1,1 +1,1 @@
-Simple Client - Server
+Simple Client - Server, HomeWork.
